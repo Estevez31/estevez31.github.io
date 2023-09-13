@@ -1,12 +1,21 @@
 ![](https://www.tijuana.tecnm.mx/wp-content/uploads/2022/11/Banderin-TECNM-ITT-2022-ver-Final-scaled-e1668192523487-1568x948.jpg)
-# Tecnológico Nacional de México
-# Instituto Tecnológico de Tijuana
-# Subdirección Académica
-# Depto de Sistemas y Computación
-# SEMESTRE: AGOSTO – DICIEMBRE 2023
-# Ing. En Sistemas Computacionales
-## SISTEMAS PROGRAMABLES 23a
-## FECHA: 13 de septiembre del 2023
+**Tecnológico Nacional de México**
+
+**Instituto Tecnológico de Tijuana**
+
+**Subdirección Académica**
+
+**Depto de Sistemas y Computación**
+
+**SEMESTRE: AGOSTO – DICIEMBRE 2023**
+
+**Ing. En Sistemas Computacionales**
+
+**SISTEMAS PROGRAMABLES 23a**
+
+**Estevez Ramirez Maria Teresa - 20211773**
+
+**FECHA: 13 de septiembre del 2023**
 
 # Seven Segment Display (TM1637)
 ## Pantalla de 7 segmentos
