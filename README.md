@@ -32,9 +32,11 @@ Cada segmento se puede encender o apagar individualmente configurando el pin cor
 ## Descripción general del hardware del módulo TM1637
 El módulo TM1637 combina una pantalla clásica de 7 segmentos, 4 dígitos y 0,36 ″ y el controlador LED TM1637 de Titan MicroElectronics, lo que le permite controlar todos los dígitos y los dos puntos utilizando solo dos pines de E/S.
 ![](FOTO1.PNG)
+
 El módulo TM1637 es ideal para mostrar datos de sensores o temperatura. También incluye dos puntos para usar en proyectos relacionados con el tiempo y el reloj.
 El TM1637 se encarga de todo el trabajo de actualizar la pantalla después de que el microcontrolador la haya actualizado, lo cual es una buena ventaja. Esto libera al microcontrolador para hacer otras cosas importantes.
 ![](FOTO2.PNG)
+
 Tiene muchas funciones útiles, como la capacidad de ajustar el brillo de la pantalla y controlar cada segmento de forma independiente.
 El módulo TM1637 funciona con un voltaje de suministro de 3,3 a 5 voltios y se comunica a través de un bus de dos cables, que requiere sólo dos pines de datos, VCC y tierra. El TM1637 tiene su propio protocolo de transferencia de datos, pero hay bibliotecas Arduino disponibles que ocultan las complejidades y facilitan la comunicación con la pantalla.
 
