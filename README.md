@@ -52,6 +52,16 @@ A continuación se muestra la distribución de pines de la pantalla de siete seg
 El módulo TM1637 consta de dos partes; el primero es una pantalla de 7 segmentos de 4 dígitos y el segundo es el IC del controlador de pantalla de 7 segmentos TM1637. El IC admite muchas funcionalidades, incluido el control de encendido, apagado y brillo. Este IC también tiene una cola de datos, lo que significa que puede enviar todos los paquetes de datos al IC y el IC mostrará toda la información secuencialmente, dándole espacio a su microcontrolador para otras tareas.
 ![](FOTO4.PNG)
 
+## Especificaciones técnicas
+Descripción | Contenido
+-------- | -----------
+Tensión de funcionamiento | 3,3 – 5 VCC
+Consumo de corriente máximo | 80mA
+Protección contra polaridad inversa | Sí
+Tamaño de la pantalla | 42 mm x 24 mm (1,65″ x 0,95″)
+Altura de la pantalla | 12 mm (0,47") (típico)
+Altura del personaje | 9,14 mm (0,36 pulg.)
+
 ## Aplicaciones
 * Reloj de tiempo real.
 * Temporizador
