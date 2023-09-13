@@ -1,23 +1,23 @@
 ![](FOTO.PNG)
-**Tecnológico Nacional de México**
+# **Tecnológico Nacional de México**
 
-**Instituto Tecnológico de Tijuana**
+# **Instituto Tecnológico de Tijuana**
 
-**Subdirección Académica**
+# **Subdirección Académica**
 
-**Depto de Sistemas y Computación**
+# **Depto de Sistemas y Computación**
 
-**SEMESTRE: AGOSTO – DICIEMBRE 2023**
+# **SEMESTRE: AGOSTO – DICIEMBRE 2023**
 
-**Ing. En Sistemas Computacionales**
+# **Ing. En Sistemas Computacionales**
 
-**SISTEMAS PROGRAMABLES 23a**
+# **SISTEMAS PROGRAMABLES 23a**
 
-**Estevez Ramirez Maria Teresa - 20211773**
+# **Estevez Ramirez Maria Teresa - 20211773**
 
-**FECHA: 13 de septiembre del 2023**
+## FECHA: 13 de septiembre del 2023
 
-# Seven Segment Display (TM1637)
+# **Seven Segment Display (TM1637)**
 ## Pantalla de 7 segmentos
 La pantalla de 7 segmentos, también denominada consta de siete LED dispuestos en forma de '8'. Cada LED se denomina segmento porque cuando se ilumina forma parte de un dígito.
 
@@ -45,7 +45,7 @@ A continuación se muestra la distribución de pines de la pantalla de siete seg
 ![](FOTO3.PNG)
 > * CLK: es el pin de entrada del reloj.
 > * DIO: es el pin de E/S de datos.
-> * VCC: es el pin de fuente de alimentación. A una feunte de alimentación de 3.3 v a 5 v.
+> * VCC: es el pin de fuente de alimentación. A una feunte de alimentación de 3.3v a 5v.
 > * GND: es el pin de tierra.
 
 ## Piezas del módulo de visualización de siete segmentos TM1637
