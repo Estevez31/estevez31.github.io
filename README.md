@@ -53,14 +53,7 @@ El módulo TM1637 consta de dos partes; el primero es una pantalla de 7 segmento
 ![](FOTO4.PNG)
 
 ## Especificaciones técnicas
-Descripción | Contenido
-------------------------- | --------------------------
-Tensión de funcionamiento | 3,3 – 5 VCC
-Consumo de corriente máximo | 80mA
-Protección contra polaridad inversa | Sí
-Tamaño de la pantalla | 42 mm x 24 mm (1,65″ x 0,95″)
-Altura de la pantalla | 12 mm (0,47") (típico)
-Altura del personaje | 9,14 mm (0,36 pulg.)
+![](FOTO6.PNG)
 
 ## Aplicaciones
 * Reloj de tiempo real.
