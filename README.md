@@ -53,6 +53,7 @@ El módulo TM1637 consta de dos partes; el primero es una pantalla de 7 segmento
 ![](FOTO4.PNG)
 
 ## Especificaciones técnicas
+
 |             Descripción             |  Contenido    | 
 | ----------------------------------- | ------------- |
 | Tensión de funcionamiento           | 3,3 – 5 VCC   |
