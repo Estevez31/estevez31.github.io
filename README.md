@@ -54,7 +54,7 @@ El módulo TM1637 consta de dos partes; el primero es una pantalla de 7 segmento
 
 ## Especificaciones técnicas
 Descripción | Contenido
--------- | -----------
+------------------------- | --------------------------
 Tensión de funcionamiento | 3,3 – 5 VCC
 Consumo de corriente máximo | 80mA
 Protección contra polaridad inversa | Sí
